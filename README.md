@@ -1,5 +1,7 @@
 # Ringshot 🎯✨
 
+<img src="media/demo.png" alt="Ringshot Demo" width="312" height="512">
+
 In **Ringshot**, the ultimate dart shooting challenge, aim and hit the bullseye!
 Watch dazzling motion lines streak across the screen, launch **purple darts** 🎯💜 at **colorful ring targets** 🎯🌈 with style and accuracy, and experience the rush ⚡ as each shot bursts with vivid, eye-catching effects 🌟.
 
